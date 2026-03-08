@@ -1,0 +1,16 @@
+---
+workspace_name: "lock"
+label: "lock-app-thread-bootloader"
+quality: "production"
+description: "Matter solution containing both a Matter bootloader and Lock over Thread\
+  \ Example"
+project:
+- id: "application"
+  path: "lock_brd4118a.slcp"
+  output: "."
+- id: "bootloader"
+  path: "..\\mboot\\mboot.slcp"
+  output: "../mboot"
+post_build:
+  profile: ""
+  path: "lock.slpb"

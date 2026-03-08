@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ASCII"?>
+<model:MDescriptors xmlns:model="http://www.silabs.com/ss/Studio.ecore">
+  <descriptors name="lock_brd4118a">
+    <properties key="projectCommon.sdkId" value="com.silabs.sdk.stack.sisdk:2025.6.1._-222871624"/>
+    <properties key="universalConfig.relativeWorkspacePath" value="..\lock.slcw"/>
+    <properties key="universalConfig.generationDirectory" value="..\..\..\..\..\..\..\..\..\..\..\workplace\matter_project\lock_brd4118a"/>
+    <properties key="universalConfig.toolchainCompatibility" value="gcc"/>
+    <properties key="projectCommon.overwriteCopiedSources" value="false"/>
+    <properties key="projectCommon.boardIds" value="brd4118a:0.0.0.A02 brd4002a:0.0.0.A06"/>
+    <properties key="projectCommon.kitId" value=""/>
+    <properties key="projectCommon.partId" value="mcu.arm.efr32.mg26.efr32mg26b510f3200il136"/>
+    <properties key="projectCommon.toolchainId" value="com.silabs.ss.tool.ide.arm.toolchain.gnu.cdt:12.2.1.20221205"/>
+    <properties key="universalConfig.projectTypeIds" value="com.silabs.ss.framework.ide.project.core.cdtMbsProjectType"/>
+    <properties key="projectCommon.importModeId" value="COPY"/>
+    <properties key="universalConfig.compSelProjInstanceId" value="1772782150197"/>
+  </descriptors>
+</model:MDescriptors>
